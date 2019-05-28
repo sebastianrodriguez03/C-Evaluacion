@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "billetera", "billetera\billetera.csproj", "{CC81AFB4-C569-4805-9849-DBA1E2DA8417}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "musicPlayer", "musicPlayer\musicPlayer.csproj", "{35A0458E-ABC2-48CE-BC3B-0DB59A42B725}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC81AFB4-C569-4805-9849-DBA1E2DA8417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC81AFB4-C569-4805-9849-DBA1E2DA8417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC81AFB4-C569-4805-9849-DBA1E2DA8417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC81AFB4-C569-4805-9849-DBA1E2DA8417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35A0458E-ABC2-48CE-BC3B-0DB59A42B725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A0458E-ABC2-48CE-BC3B-0DB59A42B725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A0458E-ABC2-48CE-BC3B-0DB59A42B725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A0458E-ABC2-48CE-BC3B-0DB59A42B725}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCFA760B-2900-4C0D-8FF3-CD33B2D2DB68}
+	EndGlobalSection
+EndGlobal

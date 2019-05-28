@@ -1,0 +1,11 @@
+C:\Users\sebastianrojas\source\repos\billetera\billetera\bin\Debug\netcoreapp2.1\billetera.deps.json
+C:\Users\sebastianrojas\source\repos\billetera\billetera\bin\Debug\netcoreapp2.1\billetera.runtimeconfig.json
+C:\Users\sebastianrojas\source\repos\billetera\billetera\bin\Debug\netcoreapp2.1\billetera.runtimeconfig.dev.json
+C:\Users\sebastianrojas\source\repos\billetera\billetera\bin\Debug\netcoreapp2.1\billetera.dll
+C:\Users\sebastianrojas\source\repos\billetera\billetera\bin\Debug\netcoreapp2.1\billetera.pdb
+C:\Users\sebastianrojas\source\repos\billetera\billetera\obj\Debug\netcoreapp2.1\billetera.csprojAssemblyReference.cache
+C:\Users\sebastianrojas\source\repos\billetera\billetera\obj\Debug\netcoreapp2.1\billetera.csproj.CoreCompileInputs.cache
+C:\Users\sebastianrojas\source\repos\billetera\billetera\obj\Debug\netcoreapp2.1\billetera.AssemblyInfoInputs.cache
+C:\Users\sebastianrojas\source\repos\billetera\billetera\obj\Debug\netcoreapp2.1\billetera.AssemblyInfo.cs
+C:\Users\sebastianrojas\source\repos\billetera\billetera\obj\Debug\netcoreapp2.1\billetera.dll
+C:\Users\sebastianrojas\source\repos\billetera\billetera\obj\Debug\netcoreapp2.1\billetera.pdb

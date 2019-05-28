@@ -1,0 +1,11 @@
+C:\Users\sebastianrojas\source\repos\billetera\musicPlayer\obj\Debug\netcoreapp2.1\musicPlayer.csprojAssemblyReference.cache
+C:\Users\sebastianrojas\source\repos\billetera\musicPlayer\obj\Debug\netcoreapp2.1\musicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\sebastianrojas\source\repos\billetera\musicPlayer\obj\Debug\netcoreapp2.1\musicPlayer.AssemblyInfoInputs.cache
+C:\Users\sebastianrojas\source\repos\billetera\musicPlayer\obj\Debug\netcoreapp2.1\musicPlayer.AssemblyInfo.cs
+C:\Users\sebastianrojas\source\repos\billetera\musicPlayer\bin\Debug\netcoreapp2.1\musicPlayer.deps.json
+C:\Users\sebastianrojas\source\repos\billetera\musicPlayer\bin\Debug\netcoreapp2.1\musicPlayer.runtimeconfig.json
+C:\Users\sebastianrojas\source\repos\billetera\musicPlayer\bin\Debug\netcoreapp2.1\musicPlayer.runtimeconfig.dev.json
+C:\Users\sebastianrojas\source\repos\billetera\musicPlayer\bin\Debug\netcoreapp2.1\musicPlayer.dll
+C:\Users\sebastianrojas\source\repos\billetera\musicPlayer\bin\Debug\netcoreapp2.1\musicPlayer.pdb
+C:\Users\sebastianrojas\source\repos\billetera\musicPlayer\obj\Debug\netcoreapp2.1\musicPlayer.dll
+C:\Users\sebastianrojas\source\repos\billetera\musicPlayer\obj\Debug\netcoreapp2.1\musicPlayer.pdb
